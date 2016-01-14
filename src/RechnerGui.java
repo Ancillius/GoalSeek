@@ -27,7 +27,7 @@ public class RechnerGui extends JPanel
 	//private double tolerance;
 	private double rente;
  
-
+//TODO: Prozentwertberechnungen fixen (kommt unsinn raus)
  
     //Labels to identify the fields
     private JLabel barJLabel;
